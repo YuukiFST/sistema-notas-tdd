@@ -5,7 +5,7 @@
 ## Integrantes
 - Rafael Pereira
 - Fausto Yuuki
-- Nome 3
+- Tiago Ferraz
 - Nome 4 
 - Nome 5 
 
