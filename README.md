@@ -6,7 +6,7 @@
 - Rafael Pereira
 - Fausto Yuuki
 - Tiago Ferraz
-- Nome 4 
+- Murilo Kanieski
 - Nome 5 
 
 ## Como Executar os Testes
