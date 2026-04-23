@@ -7,7 +7,7 @@
 - Fausto Yuuki
 - Tiago Ferraz
 - Murilo Kanieski
-- Nome 5 
+- Lucas Ojeda
 
 ## Como Executar os Testes
 
